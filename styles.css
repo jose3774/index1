@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #345;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#señalamientos {
+   
+}
+
+#velocidad {
+    background-color: #45B39D  ; /* Color azul claro */
+     text-align: center
+}
+
+#Noestacionarse {
+    background-color: #5499C7 ; /* Color amarillo claro */
+     text-align: center
+}
+
+#Salida {
+    background-color: #F9E79F ; /* Color naranja claro */
+     text-align: center
+}
+
+#Vuelta {
+    background-color: #E6B0AA; /* Color naranja claro */
+     text-align: center
+}
+
+#Marcadores{
+    background-color: #76D7C4; /* Color verde claro */
+     text-align: center
+}
+
+#Estacionamiento {
+    background-color: #E59866 ; /* Color naranja claro */
+     text-align: center
+}
+
+#Nopasar {
+    background-color: #5499C7; /* Color naranja claro */
+     text-align: center
+}
+
+#Parada {
+    background-color: #EC7063 ; /* Color naranja claro */
+     text-align: center
+}
+
+#carriles {
+    background-color: #E67E22 ; /* Color naranja claro */
+     text-align: center
+}
+
+#alto {
+    background-color: #F1948A; /* Color naranja claro */
+     text-align: center
+}
+#integrantes }
+    background-color: #45B39D  ; /* Color azul claro */
+     text-align: center
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
